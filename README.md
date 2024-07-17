@@ -1,4 +1,5 @@
-# Video-games-sales
+**Video-games-sales**
+
 Here I'm showing the most popular games sold in Japan and the EU.
 
 A video game company wants to increase profits. They sell games in Japan and Europe.
